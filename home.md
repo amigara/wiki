@@ -1,4 +1,4 @@
-<!-- TITLE: Home -->
-<!-- SUBTITLE: A quick summary of Home -->
+<!-- TITLE: Welcome to ImpactWiki -->
+<!-- SUBTITLE: A knowledgebase for impact investors, entrepreneurs and evaluators -->
 
 # Header
