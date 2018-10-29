@@ -1,3 +1,2 @@
 <!-- TITLE: Agriculture -->
-<!-- SUBTITLE: Sector overview -->
-# Header
+# Sector overview
