@@ -17,15 +17,12 @@
 * Development impact bond
 * Efficient impact frontier
 * Lean data
+* Measurement and evaluation
 * Patient capital
 
-### Testing
+### Measurement and evaluation
 
 Hello.
-
-## Impact investing process
-*  
-*  Measurement and evaluation
 
 ## Impact investing industry
 * List of impact investment firms
