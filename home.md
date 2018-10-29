@@ -20,6 +20,7 @@
 * Measurement and evaluation
 * Patient capital
 ## Impact investing industry
-* List of impact investment firms
 * Careers in impact investing
+* Event calendar
+* List of impact investment firms
 
