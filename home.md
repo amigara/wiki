@@ -19,38 +19,10 @@ Hello.
 * Overview of measurement and evaluation
 
 ## Sector overviews
-### [Agriculture](http://#)
-* US sustainable agriculture
-* African sustainable agriculture
-* Latin american sustainable agriculture
-* US food security
+* Agriculture
 * Economic development
-    * Affordable housing
-    * SME finance
-    * Sustainable infrastructure
-    * Women’s economic empowerment
 * Education
-    * US K-12 Education Technology
-    * Low-cost private schools
-    * Education infrastructure
-    * Ed tech in developing countries
 * Energy
-    * Smart grid
-    * Energy storage
-    * Solar
-    * Wind
 * Environment
-    * Waste management / recycling
-    * Conservation finance
-    * Forestry conservation
-    * Food waste solutions
 * Health
-    * Nutrition/diabetes
-    * Neurodegenerative diseases
-    * Healthcare IT
-    * Clean air
 * Water
-    * Water management
-    * Desalination
-    * Water conservation
-    * Access to clean water
