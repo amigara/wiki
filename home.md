@@ -21,6 +21,6 @@
 * Patient capital
 ## Impact investing industry
 * Careers in impact investing
-* Event calendar
+* [Event calendar](/event-calendar)
 * List of impact investment firms
 
