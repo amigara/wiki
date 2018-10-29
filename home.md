@@ -19,11 +19,6 @@
 * Lean data
 * Measurement and evaluation
 * Patient capital
-
-### Measurement and evaluation
-
-Hello.
-
 ## Impact investing industry
 * List of impact investment firms
 * Careers in impact investing
