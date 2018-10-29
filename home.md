@@ -6,10 +6,10 @@
 Existing articles are linked below. Other articles still need to be created!
 ## Concepts in impact investing
 * Additionality
+* Development impact bond
+* Efficient impact frontier
 * Lean data
 * Patient capital
-* Efficient impact frontier
-* Development impact bonds / social impact bonds
 
 ### Testing
 
