@@ -4,6 +4,15 @@
 [All pages](http://impactwiki.org/all) | [Request editing access](http://impactwiki.org/request-edit-access)
 # Topics
 Existing articles are linked below. Other articles still need to be created!
+
+## Sector overviews
+* Agriculture
+* Economic development
+* Education
+* Energy
+* Environment
+* Health
+* Water
 ## Concepts in impact investing
 * Additionality
 * Development impact bond
@@ -18,11 +27,3 @@ Hello.
 ## Measurement and evaluation
 * Overview of measurement and evaluation
 
-## Sector overviews
-* Agriculture
-* Economic development
-* Education
-* Energy
-* Environment
-* Health
-* Water
