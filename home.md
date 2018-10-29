@@ -28,6 +28,6 @@ Hello.
 *  Measurement and evaluation
 
 ## Impact investing industry
-* List of impact investing firms
+* List of impact investment firms
 * Careers in impact investing
 
