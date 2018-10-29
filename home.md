@@ -10,7 +10,7 @@
 * Education
 * Energy
 * Environment
-* Health
+* Public health
 * Water
 ## Concepts in impact investing
 * Additionality
