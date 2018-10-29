@@ -20,10 +20,10 @@ Hello.
 
 ## Sector overviews
 ### Agriculture
-    * US sustainable agriculture
-    * African sustainable agriculture
-    * Latin american sustainable agriculture
-    * US food security
+* US sustainable agriculture
+* African sustainable agriculture
+* Latin american sustainable agriculture
+* US food security
 * Economic development
     * Affordable housing
     * SME finance
