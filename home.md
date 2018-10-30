@@ -13,7 +13,6 @@
 * Environment
 * Public health
 * Water
-
 ## Concepts in impact investing
 * Additionality
 * Development impact bond
@@ -21,12 +20,10 @@
 * Lean data
 * Measurement and evaluation
 * Patient capital
-
 ## Impact investing industry
 * Careers in impact investing
 * [Event calendar](/event-calendar)
 * List of impact investment firms
-
 ## About
 * About this wiki
 * Editing and adding pages
