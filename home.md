@@ -3,7 +3,7 @@
 
 [All pages](http://impactwiki.org/all) | [Request editing access](http://impactwiki.org/request-edit-access)
 # Topics
-## About this wiki
+## About
 * About this wiki
 * Editing and adding pages
 
