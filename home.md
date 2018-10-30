@@ -6,6 +6,7 @@
 
 ## Sector overviews
 * [Agriculture](/agriculture)
+* Animal welfare
 * Economic development
 * Education
 * Energy
