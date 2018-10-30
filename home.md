@@ -24,3 +24,8 @@
 * Careers in impact investing
 * [Event calendar](/event-calendar)
 * List of impact investment firms
+
+## About this wiki
+* About this wiki
+* Editing and adding pages
+* 
