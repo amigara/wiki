@@ -3,6 +3,17 @@
 
 [All pages](http://impactwiki.org/all) | [Request editing access](http://impactwiki.org/request-edit-access)
 # Topics
+## About this wiki
+* About this wiki
+* Editing and adding pages
+
+## Concepts in impact investing
+* Additionality
+* Development impact bond
+* Efficient impact frontier
+* Lean data
+* Measurement and evaluation
+* Patient capital
 
 ## Sector overviews
 * [Agriculture](/agriculture)
@@ -13,19 +24,9 @@
 * Environment
 * Public health
 * Water
-## Concepts in impact investing
-* Additionality
-* Development impact bond
-* Efficient impact frontier
-* Lean data
-* Measurement and evaluation
-* Patient capital
+
 ## Impact investing industry
 * Careers in impact investing
 * [Event calendar](/event-calendar)
 * List of impact investment firms
 
-## About this wiki
-* About this wiki
-* Editing and adding pages
-* 
