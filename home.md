@@ -3,9 +3,6 @@
 
 [All pages](http://impactwiki.org/all) | [Request editing access](http://impactwiki.org/request-edit-access)
 # Topics
-## About
-* About this wiki
-* Editing and adding pages
 
 ## Concepts in impact investing
 * Additionality
@@ -30,3 +27,6 @@
 * [Event calendar](/event-calendar)
 * List of impact investment firms
 
+## About
+* About this wiki
+* Editing and adding pages
