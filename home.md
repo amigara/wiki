@@ -24,5 +24,3 @@
 * Careers in impact investing
 * [Event calendar](/event-calendar)
 * List of impact investment firms
-* blablablah
-
