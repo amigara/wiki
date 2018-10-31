@@ -151,3 +151,15 @@ externalLogging:
   papertrail: false
   rollbar: false
   sentry: false
+  
+# ---------------------------------------------------------------------
+# Color theme
+# ---------------------------------------------------------------------
+  
+  theme:
+  primary: deep-purple
+  alt: blue-grey
+  footer: blue-grey
+  code:
+    dark: true
+    colorize: true
