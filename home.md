@@ -20,6 +20,12 @@
 * Lean data
 * Measurement and evaluation
 * Patient capital
+## Approaches to impact investing
+* Angel investing
+* Private debt
+* Private equity
+* Public equity
+* Venture capital
 ## Impact investing industry
 * Careers in impact investing
 * [Event calendar](/event-calendar)
