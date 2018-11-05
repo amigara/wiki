@@ -34,4 +34,4 @@
 
 ## About
 * About this wiki
-* [Editing and adding pages](/editing-formatting)
+* [Editing and adding pages](/formatting-guide)
