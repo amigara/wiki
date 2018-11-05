@@ -1,3 +1,3 @@
-<!-- TITLE: Impact investing resource database -->
+<!-- TITLE: Impact investing resource library -->
 
-# Database
+# Library
