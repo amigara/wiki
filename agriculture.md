@@ -5,13 +5,17 @@ Coming soon.
 
 # Focus areas
 ## Sustainable agriculture
-### hello
+
 Information on topic one.
 
-## Sustainable agriculture in the United States
-Information on topic two.
+### Sustainable agriculture in Africa
 
-## Sustainable agriculture in the United States
+### Sustainable agriculture in the United States
+
+### Sustainable agriculture in Latin America
+
+## Food security
+Information on topic two.
 
 # Resources
 * One
