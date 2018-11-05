@@ -30,11 +30,8 @@
 ## Impact investing industry
 * [Careers in impact investing](/impact-investing-careers)
 * [Event calendar](/event-calendar)
-* [List of impact investment firms](/impact-investment-firms)
-
 ## Links and resources
 * [Resource library](/resource-library)
-
 ## About
 * [About this wiki](/about)
 * [Editing and adding pages](/formatting-guide)
