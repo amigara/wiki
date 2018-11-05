@@ -32,7 +32,6 @@
 * [Event calendar](/event-calendar)
 * List of impact investment firms
 
-=======
 ## About
 * About this wiki
 * Editing and adding pages
