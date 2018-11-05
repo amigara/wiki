@@ -7,7 +7,7 @@
 ## Sector overviews
 * [Agriculture](/agriculture)
 * Animal welfare
-* Economic development
+* [Economic development](/economic-development)
 * Education
 * Energy
 * Environment
