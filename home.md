@@ -33,7 +33,7 @@
 * [List of impact investment firms](/impact-investment-firms)
 
 ## Links and resources
-* Resource library
+* [Resource database](/resource-database)
 
 ## About
 * [About this wiki](/about)
