@@ -34,4 +34,4 @@
 
 ## About
 * About this wiki
-* [Editing and adding pages](/something23423)
+* [Editing and adding pages](/editing-formatting)
