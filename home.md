@@ -6,32 +6,32 @@
 
 ## Sector overviews
 * [Agriculture](/agriculture)
-* Animal welfare
+* [Animal welfare](/animal-welfare)
 * [Economic development](/economic-development)
-* Education
-* Energy
-* Environment
-* Public health
-* Water
+* [Education](/education)
+* [Energy](/energy)
+* [Environment](/environment)
+* [Public health](/public-health)
+* [Water](/water)
 ## Concepts in impact investing
-* Additionality
-* Development impact bond
-* Efficient impact frontier
-* Impact frameworks
-* Lean data
-* Measurement and evaluation
-* Patient capital
+* [Additionality](/additionality)
+* [Development impact bond](/development-impact-bond)
+* [Efficient impact frontier](efficient-impact-frontier)
+* [Impact frameworks](/impact-frameworks)
+* [Lean data](/lean-data)
+* [Measurement and evaluation](/measurement-evaluation)
+* [Patient capital](/patient-capital)
 ## Approaches to impact investing
-* Angel investing
-* Private debt
-* Private equity
-* Public equity
-* Venture capital
+* [Angel investing](/angel-investing)
+* [Private debt](/private-debt)
+* [Private equity](/private-equity)
+* [Public equity](/public-equity)
+* [Venture capital](/venture-capital)
 ## Impact investing industry
-* Careers in impact investing
+* [Careers in impact investing](/impact-investing-careers)
 * [Event calendar](/event-calendar)
-* List of impact investment firms
+* [List of impact investment firms](/impact-investment-firms)
 
 ## About
-* About this wiki
+* [About this wiki](/about)
 * [Editing and adding pages](/formatting-guide)
