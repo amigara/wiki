@@ -1,4 +1,4 @@
 <!-- TITLE: Editing and adding pages -->
-<!-- SUBTITLE: Formatting guide -->
+<!-- SUBTITLE: Formatting and usage guide -->
 
 # Header
