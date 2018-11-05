@@ -1,3 +1,3 @@
-<!-- TITLE: Request Edit Access -->
+<!-- TITLE: Request edit access -->
 
 # Fill out the form below
