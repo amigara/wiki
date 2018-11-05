@@ -32,6 +32,6 @@
 * [Event calendar](/event-calendar)
 ## Links and resources
 * [Resource library](/resource-library)
-## About
+# About
 * [About this wiki](/about)
 * [Editing and adding pages](/formatting-guide)
