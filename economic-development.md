@@ -1,6 +1,6 @@
 <!-- TITLE: Economic development -->
 
-> This article needs additional content. To request editing access, click [here](/request-edit-access).
+> This article needs additional content. To request edit access, click [here](/request-edit-access).
 {.is-danger}
 # Sector overview
 
