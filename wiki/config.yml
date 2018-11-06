@@ -73,7 +73,7 @@ auth:
     clientId: GITHUB_CLIENT_ID
     clientSecret: GITHUB_CLIENT_SECRET
   slack:
-    enabled: false
+    enabled: true
     clientId: '473643049671.471854374896'
     clientSecret: 'a407eaff97f94e1e559339094eee03a5'
   ldap:
